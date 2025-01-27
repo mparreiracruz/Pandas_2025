@@ -1,4 +1,5 @@
-# 03. Com base no DataFrame criado no exercício 1, calcule a média das idades.
+# 03. Com base no DataFrame criado no exercício 1,
+# calcule a média das idades.
 
 import pandas as pd
 
